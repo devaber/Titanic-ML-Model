@@ -42,7 +42,7 @@ check if there are any duplicates: <br>
 
 ![image](https://github.com/user-attachments/assets/d32939e3-b89c-4d1e-94f8-e2c0476aaa5b) <br>
 
-<6>Data Analysis</h6> <br>
+<6> Data Analysis</h6> <br>
 here we'll explore data and their relationships <br>
 run the codes to see the graphs showing the relation between data. <br>
 <h3>Model Building</h3> <br>
